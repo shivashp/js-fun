@@ -1,1 +1,1 @@
-# js-fun
+# Small Fun Projects in Javascript
