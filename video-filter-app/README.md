@@ -1,3 +1,3 @@
 # Video Filter 
 
-## Using HTML5 Media
+Using HTML5 Media
